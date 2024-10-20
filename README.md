@@ -26,7 +26,7 @@
    
    Clone the repository or download the files.
    
-   git clone https://github.com/suriya/connect-four-game.git
+   git clone https://github.com/TECHGENIUS01/connect-four-game.git
    Navigate to the project folder.
    Open index.html in a web browser to start the game.
    
